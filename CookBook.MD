@@ -1,4 +1,4 @@
-Cookbook for finishing the course project
+											Cookbook for finishing the course project
 Source data
 Human Activity Recognition Using Smartphones Dataset
 
